@@ -2,7 +2,12 @@
 <p>Projeto foi construindo na aula "Desenvolvendo um menu hamburguer... da DIO.  Ao fim do projeto, foi  construido um portfólio apenas utilizando HTML e CSS para fixação das aulas.</p>
 
 ## Tecnologias
-
-[X] HTML5
-[X] CSS Transitions(Pseudo elementos e Pseudo classes)
-[X] CSS @keyframes.
+<ul>
+[X] HTML5<br>
+[X] CSS Transitions <br>
+[X]Pseudo elementos  e Pseudo classes <br>
+[X] @keyframes.
+ </ul>
+ 
+ ## Link para o projeto 
+ <a href="#"></a>
